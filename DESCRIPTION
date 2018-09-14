@@ -1,0 +1,22 @@
+Package: mndredge
+Version: 0.1
+Date: 2018-09-12
+Title: Data dredging in R
+Description: Collection of data dredging routiens
+Authors@R: person("Mark", "Newman", role = c("aut", "cre"), email = "mark@trinetteandmark.com")
+Maintainer: Mark Newman <mark@trinetteandmark.com>
+Depends:
+    R (>= 3.4.0),
+	magrittr,
+	stats,
+	utils,
+	mnmacros
+Remotes:
+	github::markanewman/mnmacros
+Suggests:
+	testthat
+License: MIT + file LICENSE
+URL: https://github.com/markanewman/mndredge, https://markanewman.github.io/mndredge
+BugReports: https://github.com/markanewman/mndredge/issues
+RoxygenNote: 6.0.1
+LazyData: true

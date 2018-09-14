@@ -1,0 +1,4 @@
+^data-raw$
+^\.travis\.yml$
+^.vs$
+^docs$
