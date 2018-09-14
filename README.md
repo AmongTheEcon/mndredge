@@ -3,7 +3,7 @@
 [![Travis-CI Build Status](https://travis-ci.org/markanewman/mndredge.svg?branch=master)](https://travis-ci.org/markanewman/mndredge)
 [![Coverage Status](https://codecov.io/github/markanewman/mndredge/coverage.svg?branch=master)](https://codecov.io/github/markanewman/mndredge?branch=master)
 
-This repo contains data dredging routenes
+This repo contains data dredging routines.
 
 
 # Documentation

@@ -23,7 +23,7 @@ data dredge a \code{\link[base]{data.frame}} using \code{\link[stats]{cor.test}}
 }
 \examples{
   \dontshow{
-    library(mnmacros)}
+    library(mndredge)}
   set.seed(0)
   y1 <- seq(-10, 10, .5) \%>\% as.integer()
   y2 <- y1 + y1 \%>\% length() \%>\% rnorm()

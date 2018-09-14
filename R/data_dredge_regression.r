@@ -21,7 +21,7 @@
 #'
 #' @examples
 #'   \dontshow{
-#'     library(mnmacros)}
+#'     library(mndredge)}
 #'   set.seed(0)
 #'
 data_dredge_regression <- function(data, max_columns = 4, min_pvalue = 1e-10, max_pvalue = 0.05, ...) {

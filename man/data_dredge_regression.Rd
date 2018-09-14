@@ -26,7 +26,7 @@ data dredge a \code{\link[base]{data.frame}} using \code{\link[stats]{lm}}
 }
 \examples{
   \dontshow{
-    library(mnmacros)}
+    library(mndredge)}
   set.seed(0)
 
 }

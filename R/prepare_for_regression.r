@@ -1,3 +1,5 @@
+#' @importFrom mnmacros apply_bcskew0
+#'
 prepare_for_regression <- function(data) {
   
   column_names <- data %>% colnames()

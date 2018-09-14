@@ -1,4 +1,4 @@
 library(testthat)
-library(mnmacros)
+library(mndredge)
 options(scipen = 999)
-test_check("mnmacros")
+test_check("mndredge")

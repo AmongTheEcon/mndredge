@@ -2,7 +2,7 @@ Package: mndredge
 Version: 0.1
 Date: 2018-09-12
 Title: Data dredging in R
-Description: Collection of data dredging routiens
+Description: A collection of data dredging routines.
 Authors@R: person("Mark", "Newman", role = c("aut", "cre"), email = "mark@trinetteandmark.com")
 Maintainer: Mark Newman <mark@trinetteandmark.com>
 Depends:

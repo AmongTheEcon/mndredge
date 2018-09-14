@@ -23,7 +23,7 @@ lag some of the columns in a \code{\link[base]{data.frame}}
 }
 \examples{
   \dontshow{
-    library(mnmacros)}
+    library(mndredge)}
   data.frame(
     a = c(1,2,3,4),
     b = c(2,3,4,5),
